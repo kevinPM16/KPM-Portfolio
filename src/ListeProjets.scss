@@ -1,0 +1,17 @@
+.ListeProjets {
+    background-color: #003459;
+    border: #ebebeb 5px solid;
+    margin: auto;
+    width: 95%;
+   
+
+    ul {
+        list-style: none;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin: 0;
+        padding: 0;
+    }
+
+}

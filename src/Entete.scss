@@ -1,0 +1,22 @@
+.Entete {
+    background-color: #003459;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+    font-size: 1.1em;
+  
+    &>* {
+      display: flex;
+      padding: 0 20px;
+      list-style: none;
+    }
+
+    .logo{
+        width: 10%;
+        
+    }
+  
+   
+  }
