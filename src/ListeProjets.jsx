@@ -10,7 +10,7 @@ export default function ListeProjets() {
         structure obtenue du fichier JSON des produits */}
       
       {tabProjets.map(pr => 
-       <Projet etatProjet={pr.etatProjet} key={pr.id} titre={pr.titre} id={pr.id} imgOnglet={pr.imgOnglet} dateModif={pr.dateModif} />
+       <Projet etatProjet={pr.etatProjet} key={pr.id} titre={pr.titre} id={pr.id} imgOnglet={pr.imgOnglet} desc={pr.desc} />
       )}
     </ul>
   </div>
