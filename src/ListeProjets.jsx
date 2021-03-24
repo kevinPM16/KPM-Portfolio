@@ -4,7 +4,7 @@ import tabProjets from './data/Projets.json';
 
 export default function ListeProjets() {
   return (
-    <div className="ListeProjets">
+    <div className="ListeProjets" id="ListeProjets">
     <ul>
       {/* On va générer les produits à partir de la 
         structure obtenue du fichier JSON des produits */}
