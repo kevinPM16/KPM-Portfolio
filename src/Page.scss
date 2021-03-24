@@ -1,13 +1,22 @@
+* {
+    font-family: 'Oswald', sans-serif;
+}
 .Page {
     background-color: #00171f;
     width: 100%;
+    
 }
 
 .contacts {
     color: #ebebeb;
+    list-style: none;
 }
 
 .Apropos {
     text-align: center;
     color: #ebebeb;
+}
+
+.Apropos .titre {
+    font-family: 'Raleway', sans-serif;
 }
