@@ -3,48 +3,56 @@
     "titre": "Panactum",
     "imgOnglet": "red",
     "id": "Projet01",
-    "desc": "2018"
+    "desc": "2018",
+    "texte":"Pour ce projet d’équipe, nous avions travaillé ensemble sur une affiche pour un jeu avec une thématique sur l’environnement que nous imaginions ainsi qu’un site web pour le studio. Pour l'affiche, une de mes tâches était le logo titre. Voici quelque essaies ainsi que le produit final. "
   },
   {
     "titre": "Portrait à la Warhol",
     "imgOnglet":"red",
     "id": "Projet02",
-    "desc": "2017"
+    "desc": "2017",
+    "texte":"Dans le cadre de mon cours d'image numérique, on devait créé des portrait dans le style des Marilyn de Andy Warhol. Cette image à été accomplie avec Photoshop. "
   },
   {
     "titre": "Planète X - Sprites",
     "imgOnglet": "red",
     "id": "Projet03",
-    "desc": "2018"
+    "desc": "2018",
+    "texte": "Dans le cadre du mon cours de programmation d'animation, on devait crée un jeux 2D sur Unity. Voici les sprites, faites sur Illustrator."
   },
   {
     "titre": "Planète X 3D",
     "imgOnglet": "red",
     "id": "Projet04",
-    "desc": "2019"
+    "desc": "2019",
+    "texte":"Pour mon deuxième cours sur Unity, j'ai décidé d'interpréter mon jeux Planète X sous forme de jeux 3D. Avec des vue en première et troisième personne, le but est d'éliminer le plus d'aliens "
   },
   {
     "titre": "GameZone MVP",
     "imgOnglet": "red",
     "id": "Projet05",
-    "desc": "2019"
+    "desc": "2019",
+    "texte":"Dans mon cours d'interface, on cherchait des sites qui aurait besoin d’une retouche, mise à jour. Le site était GameZoneMVP qui comprenait quelque faux pas. Les changements incluent la restructure de l’HTML, nouveau style, nouvelle disposition de l’information ainsi que nouveau logo."
   },
   {
     "titre": "Logo",
     "imgOnglet": "red",
     "id": "Projet06",
-    "desc": "2018"
+    "desc": "2018",
+    "texte":"Créé comme travail pratique en image numérique II, en vectoriel "
   },
   {
     "titre": "Design Graphique",
     "imgOnglet": "red",
     "id": "Projet07",
-    "desc": "2017"
+    "desc": "2017",
+    "texte":"Paysage désertique faite en Photoshop pour travail pratique en Design Graphique"
   },
   {
     "titre": "Panactum - Site Web",
     "imgOnglet":"red",
     "id": "Projet08",
-    "desc": "2018"
+    "desc": "2018",
+    "texte":"Pour ce projet d’équipe, nous avions travaillé ensemble sur une affiche pour un jeu avec une thématique sur l’environnement que nous imaginions ainsi qu’un site web pour le studio. Chaque membre avait créé leur propre site web. Le jeu viseait une jeune audience donc l’usage des couleurs primaires était pour donner un aspect amicale. L’arrière-plan était pour renforcer la thèmatique du jeu."
   }
 ]

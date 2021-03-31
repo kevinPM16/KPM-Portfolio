@@ -19,7 +19,7 @@ export default function Page() {
             <p>Finissant en multimédia. Créatif, curieux et très intéressé de l’informatique. <br/> Je voudrais continuer de développer mes compétences et mettre en pratique celles que j’ai présentement au service d’une équipe professionnelle.</p>
           </div>
             <ListeProjets etatProjet={etatProjet} />
-            <div className="contacts" id="contacts">
+            <div className="contacts" id="Contacts">
               <h3>Pour me contacter</h3>
               <ul className="listecontact">
                 <li>Par Telephone : (438) 878-9215</li>

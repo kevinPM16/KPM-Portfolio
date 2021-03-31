@@ -1,4 +1,5 @@
 import './Projet.scss';
+import SimpleModal from "./ModalProjet";
 
 
 export default function Projet(props) {
@@ -8,6 +9,7 @@ export default function Projet(props) {
       <div className="info">
         <p className="titre">{props.titre}</p>
         <p className="desc">{props.desc}</p>
+        <SimpleModal id={props.id} texte={props.texte}/>
       </div>
     
   </li>
