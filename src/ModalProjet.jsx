@@ -1,7 +1,6 @@
 import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import { Modal } from '@material-ui/core';
-import tabProjets from './data/Projets.json';
 import './ModalProjet.scss';
 
 function rand() {
