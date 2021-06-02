@@ -23,7 +23,7 @@ export default function Page() {
               <h3>Pour me contacter</h3>
               <ul className="listecontact">
                 <li>Par Telephone : (438) 878-9215</li>
-                <li>Par Courriel : kevinjosemelendez@hotmail.com</li>
+                <li>Par Courriel : *</li>
               </ul>
             </div>
       </section>
